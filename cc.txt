@@ -1,0 +1,15 @@
+"C:\Program Files\Oracle\VirtualBox\VBoxManage.exe" setextradata "test ObserveIT L2" "VBoxInternal/Devices/VMMDev/0/Config/GetHostTimeDisabled" 1
+
+M@gic2022
+admin
+esm@rtv49
+
+Sa
+esm@rtv49
+
+Item has already been added. Key in d
+
+
+Run only scripts that you trust. While scripts from the internet can be useful, this script can potentially harm your
+computer. If you trust this script, use the Unblock-File cmdlet to allow the script to run without this warning
+message. Do you want to run Z:\ps2\xxx.ps1?

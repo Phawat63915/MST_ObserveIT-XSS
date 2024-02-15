@@ -1,0 +1,1 @@
+powershell -executionpolicy bypass -File .\get_token.ps1
